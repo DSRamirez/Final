@@ -13,6 +13,9 @@ namespace Blazor.Server.Data
         {
 
         }
-        public DbSet<Turnos> ControlTurnos { get; set; }
+        public DbSet<Turnos> Turnos { get; set; }
+        public DbSet<Servicios> Servicios { get; set; }
+        public DbSet<Productos> Productos { get; set; }
+        public DbSet<Peluqueros> Peluqueros { get; set; }
     }
 }
