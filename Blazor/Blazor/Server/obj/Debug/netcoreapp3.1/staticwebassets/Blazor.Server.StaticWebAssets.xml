@@ -1,4 +1,9 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\daisr\source\repos\Blazor\Blazor\Client\bin\Debug\netstandard2.1\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\daisr\source\repos\Blazor\Blazor\Client\wwwroot\" />
+<<<<<<< HEAD
+  <ContentRoot BasePath="/" Path="C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\wwwroot\" />
+=======
+  <ContentRoot BasePath="/" Path="C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\wwwroot\" />
+>>>>>>> b196e92b2a8c1468f29faf38caab26ec6d2efcb6
 </StaticWebAssets>

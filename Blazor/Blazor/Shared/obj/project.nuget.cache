@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "xrSN1mzxDVF/uUaVDIYX4xE7qihalQyBEamGo7Bp29yBxKkpIW2V2e5eH4o5nqiMW9P9qKnPR2xHHdAWZlaeuQ==",
+<<<<<<< HEAD
+  "dgSpecHash": "ulLqqzvEtRE0bL/GXQuROt+W8NavVQ0VRAGWQs2rftdb4NlHBCXlFjCebS/nwBZ+dfNtmBjmBL0dpH1To9/4nA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\daisr\\source\\repos\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj",
+  "projectFilePath": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj",
+=======
+  "dgSpecHash": "L/Qd4e3N1usNyLxL2esaQC2MWlnLBPiQA7YomT/XD3MZETJrVCZagP7BgBqdgP/a462sNQb8O3byM6MxvBQrkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj",
+>>>>>>> b196e92b2a8c1468f29faf38caab26ec6d2efcb6
   "expectedPackageFiles": [],
   "logs": []
 }
