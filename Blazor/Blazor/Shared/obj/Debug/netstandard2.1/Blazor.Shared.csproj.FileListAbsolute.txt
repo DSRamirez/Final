@@ -16,3 +16,12 @@ C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Shared\obj\De
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Shared\obj\Debug\netstandard2.1\Blazor.Shared.csproj.CoreCompileInputs.cache
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Shared\obj\Debug\netstandard2.1\Blazor.Shared.dll
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Shared\obj\Debug\netstandard2.1\Blazor.Shared.pdb
+C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Shared\bin\Debug\netstandard2.1\Blazor.Shared.deps.json
+C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Shared\bin\Debug\netstandard2.1\Blazor.Shared.dll
+C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Shared\bin\Debug\netstandard2.1\Blazor.Shared.pdb
+C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Shared\obj\Debug\netstandard2.1\Blazor.Shared.csprojAssemblyReference.cache
+C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Shared\obj\Debug\netstandard2.1\Blazor.Shared.AssemblyInfoInputs.cache
+C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Shared\obj\Debug\netstandard2.1\Blazor.Shared.AssemblyInfo.cs
+C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Shared\obj\Debug\netstandard2.1\Blazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Shared\obj\Debug\netstandard2.1\Blazor.Shared.dll
+C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Shared\obj\Debug\netstandard2.1\Blazor.Shared.pdb
