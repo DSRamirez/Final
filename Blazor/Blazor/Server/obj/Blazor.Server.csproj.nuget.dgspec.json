@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Server\\Blazor.Server.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\Blazor.Client.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\Blazor.Client.csproj",
-        "projectName": "Blazor.Client",
-        "projectPath": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\Blazor.Client.csproj",
-        "packagesPath": "C:\\Users\\ezetr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\",
-=======
     "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Server\\Blazor.Server.csproj": {}
   },
   "projects": {
@@ -25,15 +12,14 @@
         "projectPath": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\Blazor.Client.csproj",
         "packagesPath": "C:\\Users\\daisr\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\",
->>>>>>> b196e92b2a8c1468f29faf38caab26ec6d2efcb6
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "F:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ezetr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\daisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -46,13 +32,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-<<<<<<< HEAD
-              "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj": {
-                "projectPath": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj"
-=======
               "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj": {
                 "projectPath": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj"
->>>>>>> b196e92b2a8c1468f29faf38caab26ec6d2efcb6
               }
             }
           }
@@ -101,20 +82,10 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-<<<<<<< HEAD
-    "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Server\\Blazor.Server.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Server\\Blazor.Server.csproj",
-        "projectName": "Blazor.Server",
-        "projectPath": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Server\\Blazor.Server.csproj",
-        "packagesPath": "C:\\Users\\ezetr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Server\\obj\\",
-=======
     "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Server\\Blazor.Server.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -123,15 +94,14 @@
         "projectPath": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Server\\Blazor.Server.csproj",
         "packagesPath": "C:\\Users\\daisr\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Server\\obj\\",
->>>>>>> b196e92b2a8c1468f29faf38caab26ec6d2efcb6
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "F:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ezetr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\daisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -144,19 +114,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-<<<<<<< HEAD
-              "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\Blazor.Client.csproj": {
-                "projectPath": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\Blazor.Client.csproj"
-              },
-              "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj": {
-                "projectPath": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj"
-=======
               "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\Blazor.Client.csproj": {
                 "projectPath": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\Blazor.Client.csproj"
               },
               "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj": {
                 "projectPath": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj"
->>>>>>> b196e92b2a8c1468f29faf38caab26ec6d2efcb6
               }
             }
           }
@@ -174,26 +136,6 @@
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[3.2.1, )"
-            },
-            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
-              "target": "Package",
-              "version": "[3.1.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[5.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.4, )"
             }
           },
           "imports": [
@@ -214,20 +156,10 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-<<<<<<< HEAD
-    "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj",
-        "projectName": "Blazor.Shared",
-        "projectPath": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj",
-        "packagesPath": "C:\\Users\\ezetr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\obj\\",
-=======
     "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -236,15 +168,14 @@
         "projectPath": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj",
         "packagesPath": "C:\\Users\\daisr\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\obj\\",
->>>>>>> b196e92b2a8c1468f29faf38caab26ec6d2efcb6
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "F:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ezetr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\daisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -283,7 +214,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
