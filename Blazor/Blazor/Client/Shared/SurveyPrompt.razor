@@ -1,17 +1,4 @@
-﻿// No tiene la directiva page porque es un subcomponente,
-// es decir que va a ser utilizado por otros componentes. 
-<div class="alert alert-secondary mt-4" role="alert">
-    <span class="oi oi-pencil mr-2" aria-hidden="true"></span>
-    <strong>@Title</strong>
-
-    <span class="text-nowrap">
-        Please take our
-        <a target="_blank" class="font-weight-bold" href="https://go.microsoft.com/fwlink/?linkid=2127996">brief survey</a>
-    </span>
-    and tell us what you think.
-</div>
-
-@code {
+﻿@code {
     // Demonstrates how a parent component can supply parameters
     [Parameter]
     public string Title { get; set; }

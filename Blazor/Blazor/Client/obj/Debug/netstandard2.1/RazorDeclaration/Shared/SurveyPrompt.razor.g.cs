@@ -83,7 +83,7 @@ using Blazor.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 14 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Shared\SurveyPrompt.razor"
+#line 1 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Shared\SurveyPrompt.razor"
        
     // Demonstrates how a parent component can supply parameters
     [Parameter]

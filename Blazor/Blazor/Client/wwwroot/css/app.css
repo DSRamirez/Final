@@ -1,7 +1,11 @@
 ﻿@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
 
 html, body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
 }
 
 a, .btn-link {
@@ -180,4 +184,44 @@ app {
         /* Never collapse the sidebar for wide screens */
         display: block;
     }
+
+    #header {
+        height: 120px;
+        width: 100%;
+        background: white;
+        border-bottom: 1px solid #ccc;
+    }
+
+    #logo{
+        width: 100%;
+        font-size: 30px;
+        float: left;
+        margin-top: 35px;
+    }
+
+    #logo img{
+        display: block;
+        float: none;
+        left: 20%;
+        height: 200px;
+        margin-top: 5px;
+        margin-right: 5%;
+    }
+
+    .center{
+        width: 20%;
+        margin: 0px auto;
+    }
+
+    .clearflix{
+        clear: both;
+        clear: none;
+    }
+
+    .center h1{
+        width: 50%;
+        margin: 0px auto;
+        text-align: center;
+    }
+
 }

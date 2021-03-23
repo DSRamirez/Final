@@ -1,5 +1,6 @@
 ﻿<StaticWebAssets Version="1.0">
   <ContentRoot BasePath="/" Path="C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor" Path="C:\Users\daisr\.nuget\packages\syncfusion.blazor\18.4.0.49\build\..\staticwebassets\" />
   <ContentRoot BasePath="_content/Syncfusion.Blazor.Buttons" Path="C:\Users\daisr\.nuget\packages\syncfusion.blazor.buttons\18.4.0.49\build\..\staticwebassets\" />
   <ContentRoot BasePath="_content/Syncfusion.Blazor.Calendars" Path="C:\Users\daisr\.nuget\packages\syncfusion.blazor.calendars\18.4.0.49\build\..\staticwebassets\" />
   <ContentRoot BasePath="_content/Syncfusion.Blazor.Core" Path="C:\Users\daisr\.nuget\packages\syncfusion.blazor.core\18.4.0.49\build\..\staticwebassets\" />

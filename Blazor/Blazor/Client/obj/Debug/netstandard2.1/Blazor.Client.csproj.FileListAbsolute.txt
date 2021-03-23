@@ -527,8 +527,6 @@ C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\De
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Blazor.Client.csproj.CoreCompileInputs.cache
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Blazor.Client.RazorComponent.input.cache
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
@@ -540,8 +538,6 @@ C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\De
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Blazor.Client.TagHelpers.output.cache
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Blazor.Client.RazorCoreGenerate.cache
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
@@ -728,7 +724,6 @@ C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\bin\De
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\bin\Debug\netstandard2.1\Syncfusion.Blazor.SplitButtons.dll
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\bin\Debug\netstandard2.1\Syncfusion.Blazor.Themes.dll
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\bin\Debug\netstandard2.1\Syncfusion.Licensing.dll
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\umW5GtgTGdtGifw_A4NMEv1a44SVtLV8FIcE_m_deNM=.hash
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\yFTwTS16q6jefUDI6nVJSEskooCjUCYQYKoLAkZ2nck=.hash
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\AV8hgKJvxEXM5wtB0rWrbSVD_jqppNW1JXqLoZhO794=.hash
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\PnKO7lUOW7f4kozb_ZYmBIuHDJnrwSZKrFWmCL15nHk=.hash
@@ -738,5 +733,13 @@ C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\De
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\gVSVeQ5oYtEMI_SN4sTxxJUMIQATQ0ezbACLauNlgX8=.hash
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\jy2f00FanofpLVaiV0ZLVMwgeQoAAw0lk598xWLLjCw=.hash
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\YVKMyH3AN_9RSb6NRRz7JNpG-bR_qYX2hqVAouLpfz4=.hash
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\_YZEl62M0-kIg75TW39oj1LnoypmMxl750k7B_umeQ0=.hash
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\LkTjahdSpGlthzO7y73qarhYhi4YivlWhVxRqtqROJg=.hash
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\bin\Debug\netstandard2.1\Syncfusion.Blazor.dll
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\bin\Debug\netstandard2.1\Syncfusion.ExcelExport.Net.dll
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\bin\Debug\netstandard2.1\Syncfusion.PdfExport.Net.dll
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Reservas.razor.g.cs
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Reservas.razor.g.cs
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\NuevoTurno.razor.g.cs
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Razor\Pages\NuevoTurno.razor.g.cs
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\5Y1qnzgUDTMUTH94rhG5W8OzBdJ3WCwnfne_rPsvW-Y=.hash
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\2DC-Oo-TB3CZpGsxyq8_CBAOjx8FAK2C9JaR8TcDmFE=.hash
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\Odeu839gIOk1t_BTPm4Cf893zlZ_2FNd7WoV4FVZwzs=.hash

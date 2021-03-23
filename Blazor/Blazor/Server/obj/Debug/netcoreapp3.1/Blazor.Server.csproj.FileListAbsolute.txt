@@ -376,7 +376,6 @@ C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\bin\De
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\bin\Debug\netcoreapp3.1\Blazor.Server.dll
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\bin\Debug\netcoreapp3.1\Blazor.Server.pdb
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\bin\Debug\netcoreapp3.1\Blazor.Server.Views.dll
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\bin\Debug\netcoreapp3.1\Blazor.Server.Views.pdb
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
@@ -410,19 +409,10 @@ C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\De
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\Blazor.Server.AssemblyInfo.cs
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\Blazor.Server.csproj.CoreCompileInputs.cache
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\Blazor.Server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\Blazor.Server.RazorAssemblyInfo.cache
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\Blazor.Server.RazorAssemblyInfo.cs
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\staticwebassets\Blazor.Server.StaticWebAssets.Manifest.cache
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\staticwebassets\Blazor.Server.StaticWebAssets.xml
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\Blazor.Server.styles.css
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\Blazor.Server.TagHelpers.input.cache
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\Blazor.Server.TagHelpers.output.cache
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\Blazor.Server.RazorCoreGenerate.cache
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\Blazor.Server.RazorTargetAssemblyInfo.cache
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\Blazor.Server.RazorTargetAssemblyInfo.cs
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\Blazor.Server.Views.pdb
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\Blazor.Server.csproj.CopyComplete
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\Blazor.Server.dll
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\obj\Debug\netcoreapp3.1\Blazor.Server.pdb
@@ -476,3 +466,6 @@ C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\bin\De
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Server\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
