@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FWNfNxsQOct2t8/PtFEW8ggdODVDbtD4KiRxfjoM0fys7guo0SGetjy464JHHJP4s2Jh9mJWBGpKdU7QM3bWkw==",
+  "dgSpecHash": "OPSs2OGlJiVNGgXSkL9g+wcsV/5mZckm0BO35XYSeqqcHAuwYWnL263e9PZ18HH/RdZFnCxXxesn3uztvP8ZQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\daisr\\source\\repos\\Blazor\\Blazor\\Server\\Blazor.Server.csproj",
+  "projectFilePath": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Server\\Blazor.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daisr\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\daisr\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daisr\\source\\repos\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj",
       "projectName": "Blazor.Shared",
-      "projectPath": "C:\\Users\\daisr\\source\\repos\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj",
+      "projectPath": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj",
       "packagesPath": "C:\\Users\\daisr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daisr\\source\\repos\\Blazor\\Blazor\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
