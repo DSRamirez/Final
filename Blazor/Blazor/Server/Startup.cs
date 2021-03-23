@@ -8,6 +8,7 @@ using Microsoft.Extensions.Hosting;
 using System.Linq;
 using Blazor.Client.Shared;
 using Blazor.Server.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace Blazor.Server
 {
@@ -24,7 +25,7 @@ namespace Blazor.Server
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddDbContext<ApiContext>(Options=>Options.usesqlserver)
+            services.AddDbContext<ApiContext>(Options => Options.UseSqlServer(Configuration.GetConnectionString("DbConex")));
             services.AddControllersWithViews();
             services.AddRazorPages();
         }
