@@ -934,7 +934,6 @@ C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netsta
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\7giwDFuZekG5Iw0ZE5NYhDYXEzDpk0zMKIqQBX1FTY0=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\yFTwTS16q6jefUDI6nVJSEskooCjUCYQYKoLAkZ2nck=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
@@ -985,13 +984,11 @@ C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netsta
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\jy2f00FanofpLVaiV0ZLVMwgeQoAAw0lk598xWLLjCw=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\YVKMyH3AN_9RSb6NRRz7JNpG-bR_qYX2hqVAouLpfz4=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\3BvLa44lKTYGQusHeUK4EBqegOVdavNQoNK9CxYZcZc=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\nPHMJ3AbOocGY5GMzdAgYtn-JOXYRCdTplZMl8TE76U=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazor.Client.dll.gz
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
@@ -1116,3 +1113,6 @@ C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netsta
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\QfdIGW4g5WLNqxRcL9EinFMEe6nGaTBJDafAKqndIhA=.hash
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\tReLG3CRJTSys83HhlhZiYxlV5rPKP3EfCGEqsLGg58=.hash
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\-FUY861La8wnRxJsDW-BPbCCC5xqNtApZdIPuTHHaSQ=.hash
+C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\W8Foe2GMzoRX2rJct6tt4Ak8wy8yqi6XTJRC71i5wRw=.hash
+C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\VX0dWve75DueWPTBeiBdAiOiKMJGe2YJBt9MHCZsNAg=.hash
+C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\wGGt2ix8kLok8sPpnAQ1XQA9LN_MksMbOh27_fl9lD4=.hash
