@@ -740,9 +740,6 @@ C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\De
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Reservas.razor.g.cs
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\NuevoTurno.razor.g.cs
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Razor\Pages\NuevoTurno.razor.g.cs
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\5Y1qnzgUDTMUTH94rhG5W8OzBdJ3WCwnfne_rPsvW-Y=.hash
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\2DC-Oo-TB3CZpGsxyq8_CBAOjx8FAK2C9JaR8TcDmFE=.hash
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\Odeu839gIOk1t_BTPm4Cf893zlZ_2FNd7WoV4FVZwzs=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\bin\Debug\netstandard2.1\Blazor.Client.StaticWebAssets.xml
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\bin\Debug\netstandard2.1\Blazor.Client.dll
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\bin\Debug\netstandard2.1\Blazor.Client.pdb
@@ -1116,3 +1113,6 @@ C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netsta
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Blazor.Client.csproj.CopyComplete
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Blazor.Client.dll
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Blazor.Client.pdb
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\QfdIGW4g5WLNqxRcL9EinFMEe6nGaTBJDafAKqndIhA=.hash
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\tReLG3CRJTSys83HhlhZiYxlV5rPKP3EfCGEqsLGg58=.hash
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\-FUY861La8wnRxJsDW-BPbCCC5xqNtApZdIPuTHHaSQ=.hash

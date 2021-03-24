@@ -45,10 +45,10 @@ app {
             margin-left: 1.5rem;
         }
 
-.main .top-row a:first-child {
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
+        .main .top-row a:first-child {
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
 
 .sidebar {
     background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
@@ -133,12 +133,12 @@ app {
     z-index: 1000;
 }
 
-#blazor-error-ui .dismiss {
-    cursor: pointer;
-    position: absolute;
-    right: 0.75rem;
-    top: 0.5rem;
-}
+    #blazor-error-ui .dismiss {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
+    }
 
 @media (max-width: 767.98px) {
     .main .top-row:not(.auth) {
@@ -185,43 +185,105 @@ app {
         display: block;
     }
 
-    #header {
-        height: 120px;
-        width: 100%;
-        background: white;
-        border-bottom: 1px solid #ccc;
-    }
-
-    #logo{
+    #logo {
         width: 100%;
         font-size: 30px;
         float: left;
         margin-top: 35px;
     }
 
-    #logo img{
-        display: block;
-        float: none;
-        left: 20%;
-        height: 200px;
-        margin-top: 5px;
-        margin-right: 5%;
-    }
+        #logo img {
+            display: block;
+            float: none;
+            left: 20%;
+            height: 200px;
+            margin-top: 5px;
+            margin-right: 5%;
+        }
 
-    .center{
+    .center {
         width: 20%;
         margin: 0px auto;
     }
 
-    .clearflix{
+    .clearflix {
         clear: both;
         clear: none;
     }
 
-    .center h1{
-        width: 50%;
-        margin: 0px auto;
+    #contenido {
+        width: 100%;
+        float: left;
+        min-height: 550px;
+        margin-right: 20px;
+    }
+
+    .corte p {
+        width: 100%;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 20px;
+        padding-top: 20px;
         text-align: center;
+    }
+
+    .lavado p {
+        width: 100%;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    .peinados p {
+        width: 100%;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    .coloracion p {
+        width: 100%;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    .article-item .image-corte {
+        width: 130px;
+        height: 130px;
+        overflow: hidden;
+        float: left;
+        margin-right: 15px;
+        border: 1px solid #ccc;
+    }
+
+    .article-item .image-lavado {
+        width: 130px;
+        height: 130px;
+        overflow: hidden;
+        float: left;
+        margin-right: 15px;
+        border: 1px solid #ccc;
+    }
+
+    .article-item .image-peinados {
+        width: 130px;
+        height: 130px;
+        overflow: hidden;
+        float: left;
+        margin-right: 15px;
+        border: 1px solid #ccc;
+    }
+
+    .article-item .image-coloracion {
+        width: 130px;
+        height: 130px;
+        overflow: hidden;
+        float: left;
+        margin-right: 15px;
+        border: 1px solid #ccc;
     }
 
 }
