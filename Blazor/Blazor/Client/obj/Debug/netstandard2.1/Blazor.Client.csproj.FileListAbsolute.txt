@@ -1110,9 +1110,9 @@ C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netsta
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Blazor.Client.csproj.CopyComplete
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Blazor.Client.dll
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\Blazor.Client.pdb
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\QfdIGW4g5WLNqxRcL9EinFMEe6nGaTBJDafAKqndIhA=.hash
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\tReLG3CRJTSys83HhlhZiYxlV5rPKP3EfCGEqsLGg58=.hash
-C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\-FUY861La8wnRxJsDW-BPbCCC5xqNtApZdIPuTHHaSQ=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\Cwcbu2q9_FF_UmcMcewF-DH6WT8W-cKR8KActcm-Z3E=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\LzB-kuTZ-L1bn_drG3WS8H08AjRxldAGKSu-ZIeN0pQ=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\ZoAsuL3lZlg6nQxTXzDBvM9hjJZ-dyyBWv_JPUvnWxc=.hash
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\owG4gJPSK-QvgW0NNfeeKI-51y0A-Mn2XN7l9Zblqy8=.hash
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\DAcuQbdEhjXPdZPgTHdL_N_5va__PpiXTX3YDnb1kyA=.hash
+C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\h6SPX90xyFB1v8FK5oDgTmwxt1nUBtJDq-s7IKs54bI=.hash

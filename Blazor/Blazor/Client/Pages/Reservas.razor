@@ -1,8 +1,59 @@
-@page "/fetchdata"
-@using Syncfusion.Blazor.Calendars
+@page "/reservas"
 @inject HttpClient Http
+
 
 <h1>RESERVAS</h1>
 <p>Cuando un cliente hace una reserva, la reserva se confirma inmediatamente. Es posible que los clientes puedan cancelar sus reservas a traves del e-mail de confirmacion.</p>
 
+@if (turnos == null)
+{
+    <text>Cargando...</text>
+}
+else if (turnos.Length == 0)
+{
+    <text>No hay turnos en la base de datos</text>
+}
+else
+{
 
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Id</th>
+                <th>Nombre</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var turno in turnos)
+            {
+                <tr>
+                    <td>
+                        <a class="btn btn-success">Editar</a>
+                        <button class="btn badge-danger">Borrar</button>
+                    </td>
+                    <td>@turno.Id</td>
+                    <td>@turno.Nombre</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code{
+        Turno[] turnos { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await CargarTurnos();
+    }
+
+    async Task CargarTurnos()
+    {
+        turnos = await Http.GetJsonAsync<Turno[]>("turnos");
+        turnos = new Turno[]
+        {
+            new Turno(){Id = 1, Nombre = "Daiana" }
+        };
+    }
