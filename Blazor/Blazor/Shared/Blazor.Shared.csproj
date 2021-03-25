@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <PackageReference Include="Syncfusion.Blazor" Version="18.4.0.49" />
+    <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
   </ItemGroup>
 
 </Project>
