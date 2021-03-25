@@ -25,7 +25,10 @@ namespace ApiStock.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<Turnos>> Get()
         {
-            return _context.ControlTurnos.Include(p => p).ToList();
+            var plan = _context.ControlTurnos
+                        .Include(x => x.Id_Turno).ToList();
+
+            return plan;
         }
         // GET: api/Pais/5
         [HttpGet("{id}", Name = "ObtenerTurnoPorId")]
