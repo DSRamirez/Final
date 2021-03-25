@@ -47,6 +47,10 @@
             "Syncfusion.Blazor": {
               "target": "Package",
               "version": "[18.4.0.49, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [

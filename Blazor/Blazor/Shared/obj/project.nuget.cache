@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XxKV7GVx3/QzLfsIRkcF7kh/NSJcjwDOn50XT2dDjIFAo7ZNgu7WmQFh3iFk1DOsvlR5BVei/BUFA2Tc+s97Ig==",
+  "dgSpecHash": "qmiMt9Oh4LllzbtcB+wjinL3EXEZkPq8joBBq5GS29t511IHI4un5YoMSlcbpBm/dkrbrTo/MmimkPH/f70ACg==",
   "success": true,
   "projectFilePath": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj",
   "expectedPackageFiles": [
@@ -26,7 +26,7 @@
     "C:\\Users\\daisr\\.nuget\\packages\\syncfusion.licensing\\18.4.0.49\\syncfusion.licensing.18.4.0.49.nupkg.sha512",
     "C:\\Users\\daisr\\.nuget\\packages\\syncfusion.pdfexport.net.core\\18.4.0.49\\syncfusion.pdfexport.net.core.18.4.0.49.nupkg.sha512",
     "C:\\Users\\daisr\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\daisr\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\daisr\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\daisr\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\daisr\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\daisr\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",

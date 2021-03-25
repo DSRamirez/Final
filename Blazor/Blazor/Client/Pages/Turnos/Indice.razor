@@ -1,9 +1,11 @@
-@page "/reservas"
+﻿@page "/indice-turnos"
 @inject HttpClient Http
 
+<h3>Turnos</h3>
 
-<h1>RESERVAS</h1>
-<p>Cuando un cliente hace una reserva, la reserva se confirma inmediatamente. Es posible que los clientes puedan cancelar sus reservas a traves del e-mail de confirmacion.</p>
+<div>
+    <a class="btn btn-success" href="nuevo-turno"> Nuevo Turno </a>
+</div>
 
 @if (turnos == null)
 {
@@ -42,7 +44,7 @@ else
 }
 
 @code{
-        Turno[] turnos { get; set; }
+    Turno[] turnos { get; set; }
 
     protected override async Task OnInitializedAsync()
     {
@@ -54,6 +56,9 @@ else
         turnos = await Http.GetJsonAsync<Turno[]>("turnos");
         turnos = new Turno[]
         {
-            new Turno(){Id = 1, Nombre = "Daiana" }
+            new Turno(){Id = 1, Nombre = "Daiana"},
+            new Turno(){Id = 2, Nombre = "Ragnar"},
         };
     }
+}
+

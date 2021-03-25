@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace Blazor.Client.Pages
+namespace Blazor.Client.Pages.Turnos
 {
     #line hidden
     using System;
@@ -76,20 +76,43 @@ using Blazor.Client.Shared;
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Reservas.razor"
-using Syncfusion.Blazor.Calendars;
+#line 10 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+using Blazor.Shared.Modelos;
 
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/reservas")]
-    public partial class Reservas : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/indice-turnos")]
+    public partial class Indice : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 46 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+      
+    Turno[] turnos { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await CargarTurnos();
+    }
+
+    async Task CargarTurnos()
+    {
+        turnos = await Http.GetJsonAsync<Turno[]>("turnos");
+        turnos = new Turno[]
+        {
+            new Turno(){Id = 1, Nombre = "Daiana"},
+            new Turno(){Id = 2, Nombre = "Ragnar"},
+        };
+    }
+
+#line default
+#line hidden
+#nullable disable
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private HttpClient Http { get; set; }
     }
 }
