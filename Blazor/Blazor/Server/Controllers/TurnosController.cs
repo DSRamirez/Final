@@ -30,7 +30,7 @@ namespace ApiStock.Controllers
 
             return plan;
         }
-        // GET: api/Pais/5
+        // GET: api/Turnos/5
         [HttpGet("{id}", Name = "ObtenerTurnoPorId")]
         public ActionResult<Turnos> Get(int id)
         {
