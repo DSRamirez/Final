@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+﻿using Blazor.Server.Data;
+using Blazor.Shared.Modelos;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Blazor.Server.Data;
-using Microsoft.EntityFrameworkCore.Internal;
-using Blazor.Shared.Modelos;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace ApiStock.Controllers
 {

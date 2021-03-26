@@ -1,5 +1,5 @@
 ﻿using Blazor.Server.Data;
-using Blazor.Server.Models;
+using Blazor.Shared.Modelos;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;

@@ -13,7 +13,7 @@
 </EditForm>
 
 @code {
-    [Parameter] Turnos turnos { get; set; } = new Turnos();
-    [Parameter] String TextoBoton { get; set; } = "Guardar Cambios";
-    [Parameter]EventCallback OnValidSubmit { get; set; } 
+    [Parameter] public Turnos turnos { get; set; } = new Turnos();
+    [Parameter] public String TextoBoton { get; set; } = "Guardar Cambios";
+    [Parameter] public EventCallback OnValidSubmit { get; set; } 
 }
