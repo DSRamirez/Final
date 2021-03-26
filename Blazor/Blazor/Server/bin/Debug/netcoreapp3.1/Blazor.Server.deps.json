@@ -1415,8 +1415,8 @@
         },
         "runtime": {
           "lib/netstandard2.0/System.Net.Http.Json.dll": {
-            "assemblyVersion": "5.0.0.0",
-            "fileVersion": "5.0.20.51904"
+            "assemblyVersion": "3.2.0.0",
+            "fileVersion": "4.800.20.22701"
           }
         },
         "compile": {
@@ -1694,8 +1694,8 @@
       "System.Text.Json/5.0.0": {
         "runtime": {
           "lib/netcoreapp3.0/System.Text.Json.dll": {
-            "assemblyVersion": "5.0.0.0",
-            "fileVersion": "5.0.20.51904"
+            "assemblyVersion": "4.0.1.1",
+            "fileVersion": "4.700.20.6702"
           }
         },
         "compile": {

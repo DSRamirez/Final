@@ -44,7 +44,7 @@
       "System.ComponentModel.DataAnnotations.dll": "sha256-LIfCYwg+PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-A1FNAHZltX6j1uITGR2AmpE0HH1+iAQhYiPy8WEs6+A=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-r2LBjPMuwCEVf\/LvUtgv5qnp0CdmnZ9HsVnmdyFTVI4=",
-      "Blazor.Shared.dll": "sha256-gl8\/PCT6At42e1\/ciwysdrRP6\/l4SdhE4VX1ZYxCUy4=",
+      "Blazor.Shared.dll": "sha256-Apzav+75kloo83SKftl1xMRQclO3ElQkX+pvd0\/KeZA=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-FJ+rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=",
       "Microsoft.Extensions.DependencyInjection.dll": "sha256-d04zIStVcFNO5larHi32IT4SSemvK1abhwxWZVFJcRM=",
       "Microsoft.Extensions.Primitives.dll": "sha256-gVSVeQ5oYtEMI+SN4sTxxJUMIQATQ0ezbACLauNlgX8=",
@@ -62,7 +62,7 @@
     },
     "pdb": {
       "Blazor.Client.pdb": "sha256-aDSiW8svEM9qfywW+z9NfB8sBfowDjfr5sMwA\/R1PHI=",
-      "Blazor.Shared.pdb": "sha256-4\/xSFSoQh+ahamBM39iPJwCRDhlF\/ZURLc+C9qpo0AU="
+      "Blazor.Shared.pdb": "sha256-d71noQBdXwD2GrczUcqdK9n5rADigJgReD9wgfPFngU="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",
