@@ -75,13 +75,6 @@ using Blazor.Client.Shared;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 10 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
-using Blazor.Shared.Modelos;
-
-#line default
-#line hidden
-#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/nuevo-turno")]
     public partial class Nuevo : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -90,19 +83,6 @@ using Blazor.Shared.Modelos;
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 21 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Nuevo.razor"
-       
-    Turno turno = new Turno();
-
-    async Task NuevoTurno() {
-        await Http.PostAsJsonAsync("turno", turno);
-        UriHelper.NavigateTo("indice-turnos");
-    }
-
-#line default
-#line hidden
-#nullable disable
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager UriHelper { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private HttpClient Http { get; set; }
     }

@@ -75,13 +75,6 @@ using Blazor.Client.Shared;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 10 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
-using Blazor.Shared.Modelos;
-
-#line default
-#line hidden
-#nullable disable
     public partial class SurveyPrompt : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

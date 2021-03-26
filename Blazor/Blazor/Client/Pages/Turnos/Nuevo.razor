@@ -2,27 +2,3 @@
 @inject HttpClient Http
 @inject NavigationManager UriHelper
 
-<h3>Nuevo Turno</h3>
-
-<EditForm Model="@turno" OnValidSubmit="NuevoTurno">
-    <div class="form-field">
-        <label>Numero:</label>
-        <div>
-            <InputText @bind-Value="@turno.Nombre"></InputText>
-            <ValidationMessage For="@(() => turno.Nombre)" />
-        </div>
-    </div>
-
-    <button type="submit" class="btn btn-success">Nuevo Turno</button>
-    <DataAnnotationsValidator />
-
-</EditForm>
-
-@code {
-    Turno turno = new Turno();
-
-    async Task NuevoTurno() {
-        await Http.PostAsJsonAsync("turno", turno);
-        UriHelper.NavigateTo("indice-turnos");
-    }
-}
