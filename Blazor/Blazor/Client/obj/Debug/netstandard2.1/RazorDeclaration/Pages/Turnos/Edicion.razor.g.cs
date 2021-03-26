@@ -82,8 +82,8 @@ using Blazor.Shared.Modelos;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/indice-turnos")]
-    public partial class Indice : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/editar-turno/{Id_Turno:int}")]
+    public partial class Edicion : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -91,24 +91,14 @@ using Blazor.Shared.Modelos;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 46 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
-      
-    Turnos[] turnos { get; set; }
-
-    protected override async Task OnInitializedAsync()
-    {
-        await CargarTurnos();
-    }
-
-    async Task CargarTurnos()
-    {
-        turnos = await Http.GetFromJsonAsync<Turnos[]>("turnos");
-    }
+#line 5 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Edicion.razor"
+       
+    [Parameter] int Id_Turno { get; set; }
+    Turnos turnos = new Turnos();
 
 #line default
 #line hidden
 #nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private HttpClient Http { get; set; }
     }
 }
 #pragma warning restore 1591

@@ -24,7 +24,7 @@ else
             <tr>
                 <th></th>
                 <th>Id</th>
-                <th>Nombre</th>
+                <th>Nick</th>
             </tr>
         </thead>
         <tbody>
@@ -35,8 +35,8 @@ else
                         <a class="btn btn-success">Editar</a>
                         <button class="btn badge-danger">Borrar</button>
                     </td>
-                    <td>@turno.Id</td>
-                    <td>@turno.Nombre</td>
+                    <td>@turno.Id_Turno</td>
+                    <td>@turno.Nick</td>
                 </tr>
             }
         </tbody>
@@ -44,7 +44,7 @@ else
 }
 
 @code{
-    Turno[] turnos { get; set; }
+    Turnos[] turnos { get; set; }
 
     protected override async Task OnInitializedAsync()
     {
@@ -53,12 +53,7 @@ else
 
     async Task CargarTurnos()
     {
-        turnos = await Http.GetJsonAsync<Turno[]>("turnos");
-        turnos = new Turno[]
-        {
-            new Turno(){Id = 1, Nombre = "Daiana"},
-            new Turno(){Id = 2, Nombre = "Ragnar"},
-        };
+        turnos = await Http.GetFromJsonAsync<Turnos[]>("turnos");
     }
 }
 

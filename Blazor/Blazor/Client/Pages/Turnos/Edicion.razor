@@ -1,0 +1,8 @@
+﻿@page "/editar-turno/{IdTurno:int}"
+
+<h3>Edicion</h3>
+
+@code {
+    [Parameter] int IdTurno { get; set; }
+    Turnos turnos = new Turnos();
+}

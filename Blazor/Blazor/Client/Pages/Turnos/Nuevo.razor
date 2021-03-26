@@ -4,25 +4,13 @@
 
 <h3>Nuevo Turno</h3>
 
-<EditForm Model="@turno" OnValidSubmit="NuevoTurno">
-    <div class="form-field">
-        <label>Numero:</label>
-        <div>
-            <InputText @bind-Value="@turno.Nombre"></InputText>
-            <ValidationMessage For="@(() => turno.Nombre)" />
-        </div>
-    </div>
-
-    <button type="submit" class="btn btn-success">Nuevo Turno</button>
-    <DataAnnotationsValidator />
-
-</EditForm>
+<FormularioTurno></FormularioTurno>
 
 @code {
-    Turno turno = new Turno();
+    Turnos turnos = new Turnos();
 
     async Task NuevoTurno() {
-        await Http.PostAsJsonAsync("turno", turno);
+        await Http.PostAsJsonAsync("turno", turnos);
         UriHelper.NavigateTo("indice-turnos");
     }
 }

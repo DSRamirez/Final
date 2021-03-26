@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Blazor.Server.Models
+namespace Blazor.Shared.Modelos
 {
     public class Turnos
     {
@@ -12,7 +13,7 @@ namespace Blazor.Server.Models
         public int Id_Turno { get; set; }
         [Required]
         public int Nº_Turno { get; set; }
-        [Required]
+        [Required (ErrorMessage = "El campo {0} es requerido")]
         public string Nick { get; set; }
         [Required]
         public string Peluquero { get; set; }

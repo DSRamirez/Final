@@ -93,10 +93,10 @@ using Blazor.Shared.Modelos;
 #nullable restore
 #line 21 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Nuevo.razor"
        
-    Turno turno = new Turno();
+    Turnos turnos = new Turnos();
 
     async Task NuevoTurno() {
-        await Http.PostAsJsonAsync("turno", turno);
+        await Http.PostAsJsonAsync("turno", turnos);
         UriHelper.NavigateTo("indice-turnos");
     }
 
