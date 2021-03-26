@@ -1,8 +1,23 @@
 ﻿@page "/editar-turno/{IdTurno:int}"
+@inject HttpClient Http
+@inject NavigationManager UriHelper
 
 <h3>Edicion</h3>
+
+<FormularioTurno TextoBoton="Editar Turno" OnValidSubmit="@EditarTurno" Turno="@turnos"></FormularioTurno>
 
 @code {
     Turnos turnos = new Turnos();
     [Parameter] public string Id_Turnos { get; set; }
+
+    protected async override Task OnParametersSetAsync()
+    {
+        turnos = await Http.GetFromJsonAsync<Turnos>($"turnos/{Id_Turnos}");
+    }
+
+    async Task EditarTurno()
+    {
+        await Http.PostAsJsonAsync("turnos", turnos);
+        UriHelper.NavigateTo("indice-turnos");
+    }
 }

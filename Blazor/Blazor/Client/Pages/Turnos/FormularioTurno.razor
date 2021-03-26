@@ -1,9 +1,9 @@
-﻿<EditForm Model="@turnos" OnValidSubmit="@OnValidSubmit">
+﻿<EditForm Model="@Turnos" OnValidSubmit="@OnValidSubmit">
     <div class="form-field">
         <label>Nick del cliente:</label>
         <div>
-            <InputText @bind-Value="@turnos.Nick" />
-            <ValidationMessage For="@(() => turnos.Nick)" />
+            <InputText @bind-Value="@Turnos.Nick" />
+            <ValidationMessage For="@(() => Turnos.Nick)" />
         </div>
     </div>
 
@@ -13,7 +13,7 @@
 </EditForm>
 
 @code {
-    [Parameter] public Turnos turnos { get; set; } = new Turnos();
+    [Parameter] public Turnos Turnos { get; set; } = new Turnos();
     [Parameter] public String TextoBoton { get; set; } = "Guardar Cambios";
     [Parameter] public EventCallback OnValidSubmit { get; set; } 
 }

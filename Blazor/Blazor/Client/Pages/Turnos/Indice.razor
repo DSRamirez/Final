@@ -1,5 +1,6 @@
 ﻿@page "/indice-turnos"
 @inject HttpClient Http
+@inject IJSRuntime JS
 
 <h3>Turnos</h3>
 
@@ -32,8 +33,8 @@ else
             {
                 <tr>
                     <td>
-                        <a class="btn btn-success">Editar</a>
-                        <button class="btn badge-danger">Borrar</button>
+                        <a class="btn btn-success" href="editar-turno/@turno.Nick">Editar</a>
+                        <button class="btn badge-danger" @onclick="@(() => BorrarTurno(turno.Id_Turno))">Borrar</button>
                     </td>
                     <td>@turno.Id_Turno</td>
                     <td>@turno.Nick</td>
@@ -54,6 +55,17 @@ else
     async Task CargarTurnos()
     {
         turnos = await Http.GetFromJsonAsync<Turnos[]>("turnos");
+    }
+
+    async Task BorrarTurno(int Id_Turno)
+    {
+        var turnoSeleccionado = turnos.First(x => x.Id_Turno == Id_Turno);
+        string mensajeConfirmacion = $"¿Deseas eliminar el turno {turnoSeleccionado.Nº_Turno}?";
+        if (await JS.InvokeAsync<bool>("confirm", mensajeConfirmacion))
+        {
+            await Http.DeleteAsync($"turnos/{Id_Turno}");
+            await CargarTurnos();
+        }
     }
 }
 

@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj": {}
+    "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj": {
+    "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj",
         "projectName": "Blazor.Shared",
-        "projectPath": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj",
-        "packagesPath": "C:\\Users\\ezetr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\Blazor.Shared.csproj",
+        "packagesPath": "C:\\Users\\daisr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "F:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ezetr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\daisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -44,10 +44,6 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.4, )"
-            },
             "Syncfusion.Blazor": {
               "target": "Package",
               "version": "[18.4.0.49, )"
@@ -72,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
