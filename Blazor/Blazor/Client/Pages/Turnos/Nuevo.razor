@@ -2,3 +2,15 @@
 @inject HttpClient Http
 @inject NavigationManager UriHelper
 
+<h3>Nuevo Turno</h3>
+
+<FormularioTurno></FormularioTurno>
+
+@code {
+    Turnos turnos = new Turnos();
+
+    async Task NuevoTurno() {
+        await Http.PostAsJsonAsync("turno", turnos);
+        UriHelper.NavigateTo("indice-turnos");
+    }
+}

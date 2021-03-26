@@ -6,8 +6,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Blazor.Server.Data;
-using Blazor.Server.Models;
 using Microsoft.EntityFrameworkCore.Internal;
+using Blazor.Shared.Modelos;
 
 namespace ApiStock.Controllers
 {

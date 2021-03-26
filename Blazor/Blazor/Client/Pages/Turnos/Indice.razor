@@ -7,3 +7,53 @@
     <a class="btn btn-success" href="nuevo-turno"> Nuevo Turno </a>
 </div>
 
+@if (turnos == null)
+{
+    <text>Cargando...</text>
+}
+else if (turnos.Length == 0)
+{
+    <text>No hay turnos en la base de datos</text>
+}
+else
+{
+
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Id</th>
+                <th>Nick</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var turno in turnos)
+            {
+                <tr>
+                    <td>
+                        <a class="btn btn-success">Editar</a>
+                        <button class="btn badge-danger">Borrar</button>
+                    </td>
+                    <td>@turno.Id_Turno</td>
+                    <td>@turno.Nick</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code{
+    Turnos[] turnos { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await CargarTurnos();
+    }
+
+    async Task CargarTurnos()
+    {
+        turnos = await Http.GetFromJsonAsync<Turnos[]>("turnos");
+    }
+}
+

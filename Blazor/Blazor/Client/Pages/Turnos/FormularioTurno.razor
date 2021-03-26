@@ -1,0 +1,19 @@
+﻿<EditForm Model="@turnos" OnValidSubmit="@OnValidSubmit">
+    <div class="form-field">
+        <label>Nick del cliente:</label>
+        <div>
+            <InputText @bind-Value="@turnos.Nick" />
+            <ValidationMessage For="@(() => turnos.Nick)" />
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-success">@TextoBoton</button>
+    <DataAnnotationsValidator />
+
+</EditForm>
+
+@code {
+    [Parameter] Turnos turnos { get; set; } = new Turnos();
+    [Parameter] String TextoBoton { get; set; } = "Guardar Cambios";
+    [Parameter]EventCallback OnValidSubmit { get; set; } 
+}
