@@ -24,9 +24,7 @@ namespace ApiStock.Controllers
         {
             var complex = _context.ControlTurnos
                 .Include(x => x.Id_Turno)
-                .ThenInclude(x => x.)
-                .ThenInclude(p => p.Posts)
-                .Single(x => x.Id == Id);
+                .ToList();
 
             return complex;
         }
