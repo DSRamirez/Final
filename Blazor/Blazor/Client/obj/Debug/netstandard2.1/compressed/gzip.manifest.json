@@ -2,9 +2,12 @@
   "FilesToCompress": [
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\WNPZahDnMR7vdIbssUfXYN0zxZSdA-WJLjvSuvFslaY=.hash",
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Blazor.Client.dll",
 =======
+=======
+>>>>>>> Stashed changes
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\L2nOd3WezxxEE2UsvQASMpVZFd-A4mwtzfuGGKbLedc=.hash",
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Blazor.Client.dll",
 >>>>>>> Stashed changes
@@ -13,7 +16,11 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\M1pYQBRnwZmTq5CodeZxTzsPoWvxBmTSTyy3y0pe8P0=.hash",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Json.dll",
+=======
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Json.dll",
+>>>>>>> Stashed changes
 =======
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Json.dll",
 >>>>>>> Stashed changes
@@ -22,7 +29,11 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.CompilerServices.Unsafe.dll",
+=======
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.CompilerServices.Unsafe.dll",
+>>>>>>> Stashed changes
 =======
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.CompilerServices.Unsafe.dll",
 >>>>>>> Stashed changes
@@ -31,7 +42,11 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\mscorlib.dll",
+=======
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\mscorlib.dll",
+>>>>>>> Stashed changes
 =======
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\mscorlib.dll",
 >>>>>>> Stashed changes
@@ -40,7 +55,11 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Buffers.dll",
+=======
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Buffers.dll",
+>>>>>>> Stashed changes
 =======
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Buffers.dll",
 >>>>>>> Stashed changes
@@ -49,7 +68,11 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\APJhF7Cne1YtXAEDjYtS_NC54Yt8Uy4W364YV6GfInE=.hash",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Bcl.AsyncInterfaces.dll",
+=======
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Bcl.AsyncInterfaces.dll",
+>>>>>>> Stashed changes
 =======
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Bcl.AsyncInterfaces.dll",
 >>>>>>> Stashed changes
@@ -163,7 +186,11 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Threading.Tasks.Extensions.dll",
+=======
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Threading.Tasks.Extensions.dll",
+>>>>>>> Stashed changes
 =======
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Threading.Tasks.Extensions.dll",
 >>>>>>> Stashed changes
@@ -172,7 +199,11 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Numerics.Vectors.dll",
+=======
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Numerics.Vectors.dll",
+>>>>>>> Stashed changes
 =======
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Numerics.Vectors.dll",
 >>>>>>> Stashed changes
@@ -181,7 +212,11 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\QC2lFdhGg2mRa2tR3yhZ47dJn2L5nn4cRFtCHgTXc2c=.hash",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Encodings.Web.dll",
+=======
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Encodings.Web.dll",
+>>>>>>> Stashed changes
 =======
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Encodings.Web.dll",
 >>>>>>> Stashed changes
@@ -190,6 +225,7 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\brS4kX7v7bK5QHvD3m28MWueZWLhM2-Redb9wvgCLAI=.hash",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Net.Http.Json.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.gz"
     },
@@ -197,12 +233,17 @@
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\yFTwTS16q6jefUDI6nVJSEskooCjUCYQYKoLAkZ2nck=.hash",
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
 =======
+=======
+>>>>>>> Stashed changes
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Net.Http.Json.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\D9y5RXbA-sEzwk6cnGbGMKQv87bvOEEVycrLUTe0lGU=.hash",
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
     },
@@ -233,6 +274,7 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\r2LBjPMuwCEVf-LvUtgv5qnp0CdmnZ9HsVnmdyFTVI4=.hash",
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.Abstractions.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
@@ -246,6 +288,8 @@
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\dmW0rOC4VgDvwW4JBipiRqjW3g3VcVHSps9piIPGcd8=.hash",
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Blazor.Shared.dll",
 =======
+=======
+>>>>>>> Stashed changes
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\9UNtwDMFW86VtnTtJFk9xcc1hCnXFGXccFv3SkbgYy0=.hash",
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.Abstractions.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
@@ -253,6 +297,9 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\DvRAX7ubmKA58GJqknln2f95DGhleewx78jzc8xES9g=.hash",
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Blazor.Shared.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Blazor.Shared.dll.gz"
     },
@@ -262,6 +309,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.gz"
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\d04zIStVcFNO5larHi32IT4SSemvK1abhwxWZVFJcRM=.hash",
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.dll",
@@ -276,6 +324,13 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
     },
     {
+=======
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\k4zOMezeLfMdBtKLVs2zv3Xxb-_4ADH1XEcJ2AL6gi0=.hash",
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
+    },
+    {
+>>>>>>> Stashed changes
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_ndfoM_E5BiPTTXbGE3QqnnebiwNAoBsTciG_3_cHUA=.hash",
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Primitives.dll",
 >>>>>>> Stashed changes
@@ -318,6 +373,7 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash",
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
@@ -325,6 +381,30 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\jy2f00FanofpLVaiV0ZLVMwgeQoAAw0lk598xWLLjCw=.hash",
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Options.dll",
+=======
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\VlsKv5zXgdK0MrYHXr9XlUCXwuwNI7AUI-C1PEFXcz4=.hash",
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\sbc04n9Z3XKC7LqBYyOyNFlslAcoXtmk-7Ez6zn0BjA=.hash",
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Diagnostics.DiagnosticSource.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Diagnostics.DiagnosticSource.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\1FBfAreOfbXDp0WA294BCrk0EIa5ZqlghOuvDlqFtk8=.hash",
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.Extensions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.Extensions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\vrQresrQjYlvmLF1TcQFTDnoyCPKWUc39vSvo5EfwmQ=.hash",
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.AppContext.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.AppContext.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XAnEkn2DkDU-Xn588HKF6xZ5f3g9Eyzmw3DjEGtn2lM=.hash",
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.InteropServices.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.InteropServices.dll.gz"
 =======
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\VlsKv5zXgdK0MrYHXr9XlUCXwuwNI7AUI-C1PEFXcz4=.hash",
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.dll",
@@ -393,6 +473,52 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XMbWzSbWz38yBXaSo6e8kAgk2oM6rEjZoZYJBkMR37Q=.hash",
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
+>>>>>>> Stashed changes
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tFMMNru1KjM9tY0dph3potA-qlmOtgZOwHLp_imUF7Y=.hash",
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Diagnostics.Debug.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Diagnostics.Debug.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mzuLugvmIOgYjOk4f3eQas5TIH2wER7oBvjOd1j22ps=.hash",
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Threading.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Threading.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\8Q_uKcqkDjFjcXfcYU073dQlKb5IRta-UHFtV3Tjz9s=.hash",
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Reflection.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Reflection.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\zWDzFtXZzC_KLMGVRm7c4nLj3X7VnzT9SMdxCVqb3dE=.hash",
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Collections.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Collections.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Pts2S7BakHY8LACDy5I26bdgF2CrhSoTCirY4R-_sBE=.hash",
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Collections.Concurrent.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Collections.Concurrent.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\g3D7CEj2L0Qctx7Es-Pvvvauld0RQjyo76PPB99L9Qk=.hash",
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Diagnostics.Tracing.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Diagnostics.Tracing.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\U4q43ZeuBEBaCygKJwr18fjDYwnFv22MHuvMVqnpNzI=.hash",
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Resources.ResourceManager.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Resources.ResourceManager.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6CpyRQAYrVPJfNYBKH0K9lWX_rNPO15lwNhGHPmvxtk=.hash",
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XMbWzSbWz38yBXaSo6e8kAgk2oM6rEjZoZYJBkMR37Q=.hash",
+      "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Options.dll",
 >>>>>>> Stashed changes
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
     },
@@ -403,6 +529,7 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\sniGG1bXNCchoOs17wVLCFjuiKJ4V2yPwwwmwMjm-_U=.hash",
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Blazor.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Blazor.Client.pdb.gz"
@@ -411,6 +538,8 @@
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\BtJ0JAJiunQNzMvCnqsGWanowSnW_93o5gsCVdD7CvA=.hash",
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Blazor.Shared.pdb",
 =======
+=======
+>>>>>>> Stashed changes
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Tz1k-aPLdJvRE3CKFvaYbkX-uiEaBeyGvhi5ChxisDw=.hash",
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Blazor.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Blazor.Client.pdb.gz"
@@ -418,6 +547,9 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\yZF_kUGN8YcMOBYjdA6yAWkstz8__wEv6zF8SQSJnt0=.hash",
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Blazor.Shared.pdb",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Blazor.Shared.pdb.gz"
     },
@@ -443,9 +575,12 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\taYVz6-3ZbwOMnzT4kIz8lkTXqutms4m0GnO6jSS8FM=.hash",
       "Source": "C:\\Users\\daisr\\OneDrive\\Documentos\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
 =======
+=======
+>>>>>>> Stashed changes
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ir4XTp8tY1r6YOzCMrjiPoJy2fzqLc_3jKTehHSBclg=.hash",
       "Source": "C:\\Users\\ezetr\\Documents\\GitHub\\FinalTrejo\\Blazor\\Blazor\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
 >>>>>>> Stashed changes

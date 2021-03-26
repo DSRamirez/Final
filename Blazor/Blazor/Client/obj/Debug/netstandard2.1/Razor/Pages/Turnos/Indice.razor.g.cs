@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "63d6f4e4a2705338b5e259e986415bcacb7a645a"
+=======
+#pragma checksum "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "7b2a9467dc1405b65409d8f77dfc13da0a720e36"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "7b2a9467dc1405b65409d8f77dfc13da0a720e36"
 >>>>>>> Stashed changes
@@ -93,7 +97,11 @@ using Blazor.Shared.Modelos;
             __builder.AddMarkupContent(1, "<div><a class=\"btn btn-success\" href=\"nuevo-turno\"> Nuevo Turno </a></div>");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 11 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+=======
+#line 10 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+>>>>>>> Stashed changes
 =======
 #line 10 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
 >>>>>>> Stashed changes
@@ -107,7 +115,11 @@ using Blazor.Shared.Modelos;
             __builder.AddContent(2, "Cargando...");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 13 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+=======
+#line 12 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+>>>>>>> Stashed changes
 =======
 #line 12 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
 >>>>>>> Stashed changes
@@ -123,7 +135,11 @@ else if (turnos.Length == 0)
             __builder.AddContent(3, "No hay turnos en la base de datos");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 17 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+=======
+#line 16 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+>>>>>>> Stashed changes
 =======
 #line 16 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
 >>>>>>> Stashed changes
@@ -137,6 +153,7 @@ else
 #line default
 #line hidden
 #nullable disable
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
             __builder.AddContent(4, "    ");
             __builder.OpenElement(5, "table");
@@ -155,12 +172,21 @@ else
 #nullable restore
 #line 31 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
 >>>>>>> Stashed changes
+=======
+            __builder.OpenElement(4, "table");
+            __builder.AddAttribute(5, "class", "table");
+            __builder.AddMarkupContent(6, "<thead><tr><th></th>\r\n                <th>Id</th>\r\n                <th>Nick</th></tr></thead>\r\n        ");
+            __builder.OpenElement(7, "tbody");
+#nullable restore
+#line 31 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+>>>>>>> Stashed changes
              foreach (var turno in turnos)
             {
 
 #line default
 #line hidden
 #nullable disable
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
             __builder.AddContent(11, "                ");
             __builder.OpenElement(12, "tr");
@@ -209,6 +235,14 @@ else
 #nullable restore
 #line 38 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
 >>>>>>> Stashed changes
+=======
+            __builder.OpenElement(8, "tr");
+            __builder.AddMarkupContent(9, "<td><a class=\"btn btn-success\">Editar</a>\r\n                        <button class=\"btn badge-danger\">Borrar</button></td>\r\n                    ");
+            __builder.OpenElement(10, "td");
+            __builder.AddContent(11, 
+#nullable restore
+#line 38 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+>>>>>>> Stashed changes
                          turno.Id_Turno
 
 #line default
@@ -217,11 +251,19 @@ else
             );
             __builder.CloseElement();
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             __builder.AddMarkupContent(29, "\r\n                    ");
             __builder.OpenElement(30, "td");
             __builder.AddContent(31, 
 #nullable restore
 #line 40 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+=======
+            __builder.AddMarkupContent(12, "\r\n                    ");
+            __builder.OpenElement(13, "td");
+            __builder.AddContent(14, 
+#nullable restore
+#line 39 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+>>>>>>> Stashed changes
 =======
             __builder.AddMarkupContent(12, "\r\n                    ");
             __builder.OpenElement(13, "td");
@@ -237,11 +279,17 @@ else
             );
             __builder.CloseElement();
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             __builder.AddMarkupContent(32, "\r\n                ");
             __builder.CloseElement();
             __builder.AddMarkupContent(33, "\r\n");
 #nullable restore
 #line 42 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+=======
+            __builder.CloseElement();
+#nullable restore
+#line 41 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+>>>>>>> Stashed changes
 =======
             __builder.CloseElement();
 #nullable restore
@@ -253,6 +301,7 @@ else
 #line hidden
 #nullable disable
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             __builder.AddContent(34, "        ");
             __builder.CloseElement();
             __builder.AddMarkupContent(35, "\r\n    ");
@@ -260,6 +309,12 @@ else
             __builder.AddMarkupContent(36, "\r\n");
 #nullable restore
 #line 45 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+=======
+            __builder.CloseElement();
+            __builder.CloseElement();
+#nullable restore
+#line 44 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+>>>>>>> Stashed changes
 =======
             __builder.CloseElement();
             __builder.CloseElement();
@@ -275,7 +330,11 @@ else
         #pragma warning restore 1998
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 47 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+=======
+#line 46 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
+>>>>>>> Stashed changes
 =======
 #line 46 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Indice.razor"
 >>>>>>> Stashed changes
@@ -291,6 +350,7 @@ else
     {
         turnos = await Http.GetFromJsonAsync<Turnos[]>("turnos");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     }
 
     async Task BorrarTurno(int Id_Turno)
@@ -302,6 +362,8 @@ else
             await Http.DeleteAsync($"turnos/{Id_Turno}");
             await CargarTurnos();
         }
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     }

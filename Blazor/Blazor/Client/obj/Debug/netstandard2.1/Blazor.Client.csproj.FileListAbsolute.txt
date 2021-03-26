@@ -1125,6 +1125,7 @@ C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netsta
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\M1pYQBRnwZmTq5CodeZxTzsPoWvxBmTSTyy3y0pe8P0=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\APJhF7Cne1YtXAEDjYtS_NC54Yt8Uy4W364YV6GfInE=.hash
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\KBaFcEUpw5kZt5Kb9o87akKgfLlwt69OzhTjE1SOcIg=.hash
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\vmnWTTD3N5KP-Xw2mMvodM7VKtJgvdftErnqsxe8ZD8=.hash
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Turnos\Edicion.razor.g.cs
@@ -1137,6 +1138,8 @@ C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\De
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\sniGG1bXNCchoOs17wVLCFjuiKJ4V2yPwwwmwMjm-_U=.hash
 C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\integrity\taYVz6-3ZbwOMnzT4kIz8lkTXqutms4m0GnO6jSS8FM=.hash
 =======
+=======
+>>>>>>> Stashed changes
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazor.Shared.dll
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Diagnostics.DiagnosticSource.dll
@@ -1231,4 +1234,7 @@ C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netsta
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Resources.ResourceManager.dll.br
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.dll.br
 C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazor.Shared.pdb.br
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

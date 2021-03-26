@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Nuevo.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "e0767bebca72951832d343497561400b06db6b61"
+=======
+#pragma checksum "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Nuevo.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "e9b61b5b49a037d42cd9b9cf50b0fb6af4800d2f"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Nuevo.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "e9b61b5b49a037d42cd9b9cf50b0fb6af4800d2f"
 >>>>>>> Stashed changes
@@ -92,6 +96,7 @@ using Blazor.Shared.Modelos;
             __builder.AddMarkupContent(0, "<h3>Nuevo Turno</h3>\r\n\r\n");
             __builder.OpenComponent<Blazor.Client.Pages.Turnos.FormularioTurno>(1);
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             __builder.AddAttribute(2, "TextoBoton", "Crear Turno");
             __builder.AddAttribute(3, "OnValidSubmit", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<Microsoft.AspNetCore.Components.EventCallback>(Microsoft.AspNetCore.Components.EventCallback.Factory.Create(this, 
 #nullable restore
@@ -113,12 +118,18 @@ using Blazor.Shared.Modelos;
             ));
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
             __builder.CloseComponent();
         }
         #pragma warning restore 1998
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 9 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Nuevo.razor"
+=======
+#line 9 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Nuevo.razor"
+>>>>>>> Stashed changes
 =======
 #line 9 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Nuevo.razor"
 >>>>>>> Stashed changes

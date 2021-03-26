@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "826c20c4443e2aefc0be435dbe287a6c79a7a6be"
+=======
+#pragma checksum "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "b5bfd78b59b80950090a16e47092e736f18e994e"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "b5bfd78b59b80950090a16e47092e736f18e994e"
 >>>>>>> Stashed changes
@@ -15,7 +19,11 @@ namespace Blazor.Client.Pages.Turnos
     using Microsoft.AspNetCore.Components;
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 1 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 1 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 1 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -26,7 +34,11 @@ using System.Net.Http;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 2 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 2 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 2 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -37,7 +49,11 @@ using System.Net.Http.Json;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 3 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 3 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 3 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -48,7 +64,11 @@ using Microsoft.AspNetCore.Components.Forms;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 4 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 4 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 4 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -59,7 +79,11 @@ using Microsoft.AspNetCore.Components.Routing;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 5 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 5 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 5 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -70,7 +94,11 @@ using Microsoft.AspNetCore.Components.Web;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 6 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 6 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 6 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -81,7 +109,11 @@ using Microsoft.AspNetCore.Components.WebAssembly.Http;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 7 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 7 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 7 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -92,7 +124,11 @@ using Microsoft.JSInterop;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 8 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 8 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 8 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -103,7 +139,11 @@ using Blazor.Client;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 9 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 9 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 9 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -114,7 +154,11 @@ using Blazor.Client.Shared;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 10 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 10 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 10 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -132,8 +176,13 @@ using Blazor.Shared.Modelos;
             __builder.AddAttribute(1, "Model", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<System.Object>(
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 1 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor"
                   Turnos
+=======
+#line 1 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor"
+                  turnos
+>>>>>>> Stashed changes
 =======
 #line 1 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor"
                   turnos
@@ -146,7 +195,11 @@ using Blazor.Shared.Modelos;
             __builder.AddAttribute(2, "OnValidSubmit", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Forms.EditContext>>(Microsoft.AspNetCore.Components.EventCallback.Factory.Create<Microsoft.AspNetCore.Components.Forms.EditContext>(this, 
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 1 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor"
+=======
+#line 1 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor"
+>>>>>>> Stashed changes
 =======
 #line 1 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor"
 >>>>>>> Stashed changes
@@ -157,6 +210,7 @@ using Blazor.Shared.Modelos;
 #nullable disable
             )));
             __builder.AddAttribute(3, "ChildContent", (Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Forms.EditContext>)((context) => (__builder2) => {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
                 __builder2.AddMarkupContent(4, "\r\n    ");
                 __builder2.OpenElement(5, "div");
@@ -171,6 +225,8 @@ using Blazor.Shared.Modelos;
 #line 5 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor"
                                      Turnos.Nick
 =======
+=======
+>>>>>>> Stashed changes
                 __builder2.OpenElement(4, "div");
                 __builder2.AddAttribute(5, "class", "form-field");
                 __builder2.AddMarkupContent(6, "<label>Nick del cliente:</label>\r\n        ");
@@ -180,12 +236,16 @@ using Blazor.Shared.Modelos;
 #nullable restore
 #line 5 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor"
                                      turnos.Nick
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 #line default
 #line hidden
 #nullable disable
                 ));
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
                 __builder2.AddAttribute(13, "ValueChanged", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<Microsoft.AspNetCore.Components.EventCallback<System.String>>(Microsoft.AspNetCore.Components.EventCallback.Factory.Create<System.String>(this, Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.CreateInferredEventCallback(this, __value => Turnos.Nick = __value, Turnos.Nick))));
                 __builder2.AddAttribute(14, "ValueExpression", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<System.Linq.Expressions.Expression<System.Func<System.String>>>(() => Turnos.Nick));
@@ -196,6 +256,8 @@ using Blazor.Shared.Modelos;
 #line 6 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor"
                                       () => Turnos.Nick
 =======
+=======
+>>>>>>> Stashed changes
                 __builder2.AddAttribute(10, "ValueChanged", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<Microsoft.AspNetCore.Components.EventCallback<System.String>>(Microsoft.AspNetCore.Components.EventCallback.Factory.Create<System.String>(this, Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.CreateInferredEventCallback(this, __value => turnos.Nick = __value, turnos.Nick))));
                 __builder2.AddAttribute(11, "ValueExpression", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<System.Linq.Expressions.Expression<System.Func<System.String>>>(() => turnos.Nick));
                 __builder2.CloseComponent();
@@ -204,12 +266,16 @@ using Blazor.Shared.Modelos;
 #nullable restore
 #line 6 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor"
                                       () => turnos.Nick
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 #line default
 #line hidden
 #nullable disable
                 );
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
                 __builder2.AddMarkupContent(18, "\r\n        ");
                 __builder2.CloseElement();
@@ -223,6 +289,8 @@ using Blazor.Shared.Modelos;
 #nullable restore
 #line 10 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor"
 =======
+=======
+>>>>>>> Stashed changes
                 __builder2.CloseElement();
                 __builder2.CloseElement();
                 __builder2.AddMarkupContent(15, "\r\n\r\n    ");
@@ -232,6 +300,9 @@ using Blazor.Shared.Modelos;
                 __builder2.AddContent(19, 
 #nullable restore
 #line 10 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                                                    TextoBoton
 
@@ -241,10 +312,16 @@ using Blazor.Shared.Modelos;
                 );
                 __builder2.CloseElement();
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __builder2.AddMarkupContent(25, "\r\n    ");
                 __builder2.OpenComponent<Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator>(26);
                 __builder2.CloseComponent();
                 __builder2.AddMarkupContent(27, "\r\n\r\n");
+=======
+                __builder2.AddMarkupContent(20, "\r\n    ");
+                __builder2.OpenComponent<Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator>(21);
+                __builder2.CloseComponent();
+>>>>>>> Stashed changes
 =======
                 __builder2.AddMarkupContent(20, "\r\n    ");
                 __builder2.OpenComponent<Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator>(21);
@@ -257,9 +334,15 @@ using Blazor.Shared.Modelos;
         #pragma warning restore 1998
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 15 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor"
        
     [Parameter] public Turnos Turnos { get; set; } = new Turnos();
+=======
+#line 15 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor"
+       
+    [Parameter] public Turnos turnos { get; set; } = new Turnos();
+>>>>>>> Stashed changes
 =======
 #line 15 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor"
        

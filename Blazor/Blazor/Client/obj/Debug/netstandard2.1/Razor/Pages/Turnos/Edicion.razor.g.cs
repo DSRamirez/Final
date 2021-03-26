@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Edicion.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "4148282545bd28a1ac29426a85f79656d16a8df7"
+=======
+#pragma checksum "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Edicion.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "70b79505c5442b2ef07ffd06069f759420d751e3"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Edicion.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "70b79505c5442b2ef07ffd06069f759420d751e3"
 >>>>>>> Stashed changes
@@ -15,7 +19,11 @@ namespace Blazor.Client.Pages.Turnos
     using Microsoft.AspNetCore.Components;
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 1 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 1 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 1 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -26,7 +34,11 @@ using System.Net.Http;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 2 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 2 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 2 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -37,7 +49,11 @@ using System.Net.Http.Json;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 3 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 3 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 3 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -48,7 +64,11 @@ using Microsoft.AspNetCore.Components.Forms;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 4 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 4 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 4 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -59,7 +79,11 @@ using Microsoft.AspNetCore.Components.Routing;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 5 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 5 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 5 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -70,7 +94,11 @@ using Microsoft.AspNetCore.Components.Web;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 6 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 6 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 6 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -81,7 +109,11 @@ using Microsoft.AspNetCore.Components.WebAssembly.Http;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 7 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 7 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 7 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -92,7 +124,11 @@ using Microsoft.JSInterop;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 8 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 8 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 8 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -103,7 +139,11 @@ using Blazor.Client;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 9 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 9 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 9 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -114,7 +154,11 @@ using Blazor.Client.Shared;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 10 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 10 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 10 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes
@@ -129,6 +173,7 @@ using Blazor.Shared.Modelos;
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
             __builder.AddMarkupContent(0, "<h3>Edicion</h3>\r\n\r\n");
             __builder.OpenComponent<Blazor.Client.Pages.Turnos.FormularioTurno>(1);
@@ -157,16 +202,22 @@ using Blazor.Shared.Modelos;
 #nullable restore
 #line 9 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Edicion.razor"
 =======
+=======
+>>>>>>> Stashed changes
             __builder.AddMarkupContent(0, "<h3>Edicion</h3>");
         }
         #pragma warning restore 1998
 #nullable restore
 #line 5 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\Edicion.razor"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
        
     Turnos turnos = new Turnos();
     [Parameter] public string Id_Turnos { get; set; }
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     protected async override Task OnParametersSetAsync()
     {
@@ -184,6 +235,11 @@ using Blazor.Shared.Modelos;
 #nullable disable
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager UriHelper { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private HttpClient Http { get; set; }
+=======
+#line default
+#line hidden
+#nullable disable
+>>>>>>> Stashed changes
 =======
 #line default
 #line hidden

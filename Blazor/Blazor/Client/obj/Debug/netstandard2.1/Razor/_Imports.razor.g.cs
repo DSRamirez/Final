@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "51d68dc6510792c5ec22f559ca1531c339d4fbc5"
+=======
+#pragma checksum "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "51d68dc6510792c5ec22f559ca1531c339d4fbc5"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "51d68dc6510792c5ec22f559ca1531c339d4fbc5"
 >>>>>>> Stashed changes
@@ -78,7 +82,11 @@ using Blazor.Client.Shared;
 #nullable disable
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 10 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 10 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 =======
 #line 10 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
 >>>>>>> Stashed changes

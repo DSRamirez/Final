@@ -7,7 +7,11 @@
   "resources": {
     "assembly": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Blazor.Client.dll": "sha256-WNPZahDnMR7vdIbssUfXYN0zxZSdA\/WJLjvSuvFslaY=",
+=======
+      "Blazor.Client.dll": "sha256-L2nOd3WezxxEE2UsvQASMpVZFd\/A4mwtzfuGGKbLedc=",
+>>>>>>> Stashed changes
 =======
       "Blazor.Client.dll": "sha256-L2nOd3WezxxEE2UsvQASMpVZFd\/A4mwtzfuGGKbLedc=",
 >>>>>>> Stashed changes
@@ -42,7 +46,11 @@
       "System.Text.Encodings.Web.dll": "sha256-QC2lFdhGg2mRa2tR3yhZ47dJn2L5nn4cRFtCHgTXc2c=",
       "System.Net.Http.Json.dll": "sha256-brS4kX7v7bK5QHvD3m28MWueZWLhM2\/Redb9wvgCLAI=",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-yFTwTS16q6jefUDI6nVJSEskooCjUCYQYKoLAkZ2nck=",
+=======
+      "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-D9y5RXbA\/sEzwk6cnGbGMKQv87bvOEEVycrLUTe0lGU=",
+>>>>>>> Stashed changes
 =======
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-D9y5RXbA\/sEzwk6cnGbGMKQv87bvOEEVycrLUTe0lGU=",
 >>>>>>> Stashed changes
@@ -52,12 +60,20 @@
       "System.ComponentModel.DataAnnotations.dll": "sha256-LIfCYwg+PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-A1FNAHZltX6j1uITGR2AmpE0HH1+iAQhYiPy8WEs6+A=",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-r2LBjPMuwCEVf\/LvUtgv5qnp0CdmnZ9HsVnmdyFTVI4=",
       "Microsoft.JSInterop.dll": "sha256-YVKMyH3AN+9RSb6NRRz7JNpG\/bR+qYX2hqVAouLpfz4=",
       "Blazor.Shared.dll": "sha256-dmW0rOC4VgDvwW4JBipiRqjW3g3VcVHSps9piIPGcd8=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-FJ+rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=",
       "Microsoft.Extensions.DependencyInjection.dll": "sha256-d04zIStVcFNO5larHi32IT4SSemvK1abhwxWZVFJcRM=",
       "Microsoft.Extensions.Primitives.dll": "sha256-gVSVeQ5oYtEMI+SN4sTxxJUMIQATQ0ezbACLauNlgX8=",
+=======
+      "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-9UNtwDMFW86VtnTtJFk9xcc1hCnXFGXccFv3SkbgYy0=",
+      "Blazor.Shared.dll": "sha256-DvRAX7ubmKA58GJqknln2f95DGhleewx78jzc8xES9g=",
+      "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-FJ+rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=",
+      "Microsoft.Extensions.DependencyInjection.dll": "sha256-k4zOMezeLfMdBtKLVs2zv3Xxb\/+4ADH1XEcJ2AL6gi0=",
+      "Microsoft.Extensions.Primitives.dll": "sha256-+ndfoM+E5BiPTTXbGE3QqnnebiwNAoBsTciG+3+cHUA=",
+>>>>>>> Stashed changes
 =======
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-9UNtwDMFW86VtnTtJFk9xcc1hCnXFGXccFv3SkbgYy0=",
       "Blazor.Shared.dll": "sha256-DvRAX7ubmKA58GJqknln2f95DGhleewx78jzc8xES9g=",
@@ -73,6 +89,7 @@
       "Microsoft.Extensions.FileSystemGlobbing.dll": "sha256-r8LuqDQgcB\/c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=",
       "Microsoft.Extensions.FileProviders.Abstractions.dll": "sha256-DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Microsoft.Extensions.Logging.dll": "sha256-+kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=",
       "Microsoft.Extensions.Options.dll": "sha256-jy2f00FanofpLVaiV0ZLVMwgeQoAAw0lk598xWLLjCw=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
@@ -81,6 +98,8 @@
       "Blazor.Client.pdb": "sha256-sniGG1bXNCchoOs17wVLCFjuiKJ4V2yPwwwmwMjm\/+U=",
       "Blazor.Shared.pdb": "sha256-BtJ0JAJiunQNzMvCnqsGWanowSnW+93o5gsCVdD7CvA="
 =======
+=======
+>>>>>>> Stashed changes
       "Microsoft.Extensions.Logging.dll": "sha256-VlsKv5zXgdK0MrYHXr9XlUCXwuwNI7AUI\/C1PEFXcz4=",
       "System.Diagnostics.DiagnosticSource.dll": "sha256-sbc04n9Z3XKC7LqBYyOyNFlslAcoXtmk\/7Ez6zn0BjA=",
       "System.Runtime.Extensions.dll": "sha256-1FBfAreOfbXDp0WA294BCrk0EIa5ZqlghOuvDlqFtk8=",
@@ -101,6 +120,9 @@
     "pdb": {
       "Blazor.Client.pdb": "sha256-Tz1k\/aPLdJvRE3CKFvaYbkX\/uiEaBeyGvhi5ChxisDw=",
       "Blazor.Shared.pdb": "sha256-yZF+kUGN8YcMOBYjdA6yAWkstz8++wEv6zF8SQSJnt0="
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     "runtime": {

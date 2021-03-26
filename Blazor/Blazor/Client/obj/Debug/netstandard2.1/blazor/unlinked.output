@@ -37,7 +37,10 @@ obj\Debug\netstandard2.1\blazor\unlinked\System.ComponentModel.DataAnnotations.d
 obj\Debug\netstandard2.1\blazor\unlinked\Microsoft.AspNetCore.Components.dll
 obj\Debug\netstandard2.1\blazor\unlinked\Microsoft.Extensions.Logging.Abstractions.dll
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 obj\Debug\netstandard2.1\blazor\unlinked\Microsoft.JSInterop.dll
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 obj\Debug\netstandard2.1\blazor\unlinked\Blazor.Shared.dll
