@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Blazor.Server.Models;
+using Blazor.Shared.Modelos;
 using System;
 using System.Collections.Generic;
 using System.Linq;

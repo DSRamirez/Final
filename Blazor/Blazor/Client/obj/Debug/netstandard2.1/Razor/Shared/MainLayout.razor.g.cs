@@ -73,7 +73,11 @@ using Blazor.Client.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+<<<<<<< Updated upstream
 #line 10 "C:\Users\daisr\OneDrive\Documentos\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+=======
+#line 10 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\_Imports.razor"
+>>>>>>> Stashed changes
 using Blazor.Shared.Modelos;
 
 #line default
