@@ -22,7 +22,7 @@ namespace ApiStock.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<Turnos>> Get()
         {
-            var complex = _context.ControlTurnos
+            var complex = _context.Turnosdb
                 .Include(x => x.Id_Turno)
                 .ToList();
 
@@ -32,7 +32,7 @@ namespace ApiStock.Controllers
         [HttpGet("{id}", Name = "ObtenerTurnoPorId")]
         public ActionResult<Turnos> Get(int id)
         {
-            var turno = _context.ControlTurnos.FirstOrDefault(p => p.Id_Turno == id);
+            var turno = _context.Turnosdb.FirstOrDefault(p => p.Id_Turno == id);
             if (turno == null)
             {
                 return NotFound();
@@ -43,7 +43,7 @@ namespace ApiStock.Controllers
         [HttpPost]
         public ActionResult<Turnos> Post([FromBody] Turnos turno)
         {
-            _context.ControlTurnos.Add(turno);
+            _context.Turnosdb.Add(turno);
             _context.SaveChanges();
             return new CreatedAtRouteResult("ObtenerTurnoporid", new { id = turno.Id_Turno }, turno);
         }
@@ -63,12 +63,12 @@ namespace ApiStock.Controllers
         {
             try
             {
-                var turno = _context.ControlTurnos.FirstOrDefault(p => p.Id_Turno == id);
+                var turno = _context.Turnosdb.FirstOrDefault(p => p.Id_Turno == id);
                 if (turno == null)
                 {
                     return NotFound();
                 }
-                _context.ControlTurnos.Remove(turno);
+                _context.Turnosdb.Remove(turno);
                 _context.SaveChanges();
                 return Ok();
             }

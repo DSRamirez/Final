@@ -1,9 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Blazor.Shared.Modelos;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Blazor.Shared.Modelos;
+using Microsoft.EntityFrameworkCore;
 
 namespace Blazor.Server.Data
 {
@@ -13,6 +9,9 @@ namespace Blazor.Server.Data
         {
 
         }
-        public DbSet<Turnos> ControlTurnos { get; set; }
+        public DbSet<Turnos> Turnosdb { get; set; }
+        public DbSet<Peluqueros> Peluquerosdb { get; set; }
+        public DbSet<Productos> Productosdb { get; set; }
+        public DbSet<Servicios> Serviciosdb { get; set; }
     }
 }
