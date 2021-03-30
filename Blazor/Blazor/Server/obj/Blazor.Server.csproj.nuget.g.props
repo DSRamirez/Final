@@ -27,10 +27,11 @@
     <Import Project="$(NuGetPackageRoot)syncfusion.blazor.inputs\18.4.0.49\buildTransitive\Syncfusion.Blazor.Inputs.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.inputs\18.4.0.49\buildTransitive\Syncfusion.Blazor.Inputs.props')" />
     <Import Project="$(NuGetPackageRoot)syncfusion.blazor.calendars\18.4.0.49\buildTransitive\Syncfusion.Blazor.Calendars.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.calendars\18.4.0.49\buildTransitive\Syncfusion.Blazor.Calendars.props')" />
     <Import Project="$(NuGetPackageRoot)syncfusion.blazor\18.4.0.49\buildTransitive\Syncfusion.Blazor.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor\18.4.0.49\buildTransitive\Syncfusion.Blazor.props')" />
-    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.design\5.0.4\build\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.design\5.0.4\build\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.design\3.1.0\build\netcoreapp2.0\Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.design\3.1.0\build\netcoreapp2.0\Microsoft.EntityFrameworkCore.Design.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\ezetr\.nuget\packages\microsoft.entityframeworkcore.tools\5.0.4</PkgMicrosoft_EntityFrameworkCore_Tools>
-    <PkgMicrosoft_AspNetCore_Components_WebAssembly_Server Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_Server)' == '' ">C:\Users\ezetr\.nuget\packages\microsoft.aspnetcore.components.webassembly.server\3.2.1</PkgMicrosoft_AspNetCore_Components_WebAssembly_Server>
+    <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\ezetr\.nuget\packages\microsoft.entityframeworkcore.tools\3.1.0</PkgMicrosoft_EntityFrameworkCore_Tools>
+    <PkgMicrosoft_AspNetCore_Components_WebAssembly_Server Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_Server)' == '' ">C:\Users\ezetr\.nuget\packages\microsoft.aspnetcore.components.webassembly.server\3.2.0</PkgMicrosoft_AspNetCore_Components_WebAssembly_Server>
+    <PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer)' == '' ">C:\Users\ezetr\.nuget\packages\microsoft.aspnetcore.components.webassembly.devserver\3.2.0</PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer>
   </PropertyGroup>
 </Project>

@@ -92,11 +92,7 @@ using Blazor.Shared.Modelos;
 #nullable restore
 #line 15 "C:\Users\ezetr\Documents\GitHub\FinalTrejo\Blazor\Blazor\Client\Pages\Turnos\FormularioTurno.razor"
        
-<<<<<<< Updated upstream
     [Parameter] public Turnos Turnos { get; set; } = new Turnos();
-=======
-    [Parameter] public Turnos turnos { get; set; } = new Turnos();
->>>>>>> Stashed changes
     [Parameter] public String TextoBoton { get; set; } = "Guardar Cambios";
     [Parameter] public EventCallback OnValidSubmit { get; set; } 
 

@@ -95,7 +95,6 @@ using Blazor.Shared.Modelos;
        
     Turnos turnos = new Turnos();
     [Parameter] public string Id_Turnos { get; set; }
-<<<<<<< Updated upstream
 
     protected async override Task OnParametersSetAsync()
     {
@@ -107,8 +106,6 @@ using Blazor.Shared.Modelos;
         await Http.PostAsJsonAsync("turnos", turnos);
         UriHelper.NavigateTo("indice-turnos");
     }
-=======
->>>>>>> Stashed changes
 
 #line default
 #line hidden

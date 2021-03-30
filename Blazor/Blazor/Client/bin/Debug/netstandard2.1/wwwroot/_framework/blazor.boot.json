@@ -6,15 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      "Blazor.Client.dll": "sha256-WNPZahDnMR7vdIbssUfXYN0zxZSdA\/WJLjvSuvFslaY=",
-=======
-      "Blazor.Client.dll": "sha256-L2nOd3WezxxEE2UsvQASMpVZFd\/A4mwtzfuGGKbLedc=",
->>>>>>> Stashed changes
-=======
-      "Blazor.Client.dll": "sha256-L2nOd3WezxxEE2UsvQASMpVZFd\/A4mwtzfuGGKbLedc=",
->>>>>>> Stashed changes
+      "Blazor.Client.dll": "sha256-v7FDjXLDeoC9X14UFVEpAwAZVFvapD7tYobHCqlinp0=",
       "System.Text.Json.dll": "sha256-M1pYQBRnwZmTq5CodeZxTzsPoWvxBmTSTyy3y0pe8P0=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-kL\/omZDwqByAi+lPdMeDmr3XjHcn4RVb+LmZ4mut1Yc=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -45,42 +37,18 @@
       "System.Numerics.Vectors.dll": "sha256-qAKfFnquY+7UC\/MzLi04rjqEhLzTryCoLg\/S6MxI19I=",
       "System.Text.Encodings.Web.dll": "sha256-QC2lFdhGg2mRa2tR3yhZ47dJn2L5nn4cRFtCHgTXc2c=",
       "System.Net.Http.Json.dll": "sha256-brS4kX7v7bK5QHvD3m28MWueZWLhM2\/Redb9wvgCLAI=",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-yFTwTS16q6jefUDI6nVJSEskooCjUCYQYKoLAkZ2nck=",
-=======
-      "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-D9y5RXbA\/sEzwk6cnGbGMKQv87bvOEEVycrLUTe0lGU=",
->>>>>>> Stashed changes
-=======
-      "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-D9y5RXbA\/sEzwk6cnGbGMKQv87bvOEEVycrLUTe0lGU=",
->>>>>>> Stashed changes
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-AV8hgKJvxEXM5wtB0rWrbSVD+jqppNW1JXqLoZhO794=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-PnKO7lUOW7f4kozb+ZYmBIuHDJnrwSZKrFWmCL15nHk=",
       "System.ComponentModel.Annotations.dll": "sha256-tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=",
       "System.ComponentModel.DataAnnotations.dll": "sha256-LIfCYwg+PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-A1FNAHZltX6j1uITGR2AmpE0HH1+iAQhYiPy8WEs6+A=",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-r2LBjPMuwCEVf\/LvUtgv5qnp0CdmnZ9HsVnmdyFTVI4=",
       "Microsoft.JSInterop.dll": "sha256-YVKMyH3AN+9RSb6NRRz7JNpG\/bR+qYX2hqVAouLpfz4=",
-      "Blazor.Shared.dll": "sha256-dmW0rOC4VgDvwW4JBipiRqjW3g3VcVHSps9piIPGcd8=",
+      "Blazor.Shared.dll": "sha256-ajLtiC0pvAACFEAQBQPlYyhIq4ulOdCZsCQWdCuCRpk=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-FJ+rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=",
       "Microsoft.Extensions.DependencyInjection.dll": "sha256-d04zIStVcFNO5larHi32IT4SSemvK1abhwxWZVFJcRM=",
       "Microsoft.Extensions.Primitives.dll": "sha256-gVSVeQ5oYtEMI+SN4sTxxJUMIQATQ0ezbACLauNlgX8=",
-=======
-      "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-9UNtwDMFW86VtnTtJFk9xcc1hCnXFGXccFv3SkbgYy0=",
-      "Blazor.Shared.dll": "sha256-DvRAX7ubmKA58GJqknln2f95DGhleewx78jzc8xES9g=",
-      "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-FJ+rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=",
-      "Microsoft.Extensions.DependencyInjection.dll": "sha256-k4zOMezeLfMdBtKLVs2zv3Xxb\/+4ADH1XEcJ2AL6gi0=",
-      "Microsoft.Extensions.Primitives.dll": "sha256-+ndfoM+E5BiPTTXbGE3QqnnebiwNAoBsTciG+3+cHUA=",
->>>>>>> Stashed changes
-=======
-      "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-9UNtwDMFW86VtnTtJFk9xcc1hCnXFGXccFv3SkbgYy0=",
-      "Blazor.Shared.dll": "sha256-DvRAX7ubmKA58GJqknln2f95DGhleewx78jzc8xES9g=",
-      "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-FJ+rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=",
-      "Microsoft.Extensions.DependencyInjection.dll": "sha256-k4zOMezeLfMdBtKLVs2zv3Xxb\/+4ADH1XEcJ2AL6gi0=",
-      "Microsoft.Extensions.Primitives.dll": "sha256-+ndfoM+E5BiPTTXbGE3QqnnebiwNAoBsTciG+3+cHUA=",
->>>>>>> Stashed changes
       "Microsoft.Extensions.Configuration.dll": "sha256-n0Ag7rF7ZQamklPSZkakIXkRoa6JwlmPSS0cRaAhJQM=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-2jNkt\/\/JGfoqWNB8whRdJotnsanWbH3FfxZWz0gyLTs=",
       "Microsoft.Extensions.Configuration.Json.dll": "sha256-mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=",
@@ -88,42 +56,13 @@
       "Microsoft.Extensions.FileProviders.Physical.dll": "sha256-tY1dlliVr+yGzBF7d0z\/iaulZfBJNaSrCKDD0RP2cc8=",
       "Microsoft.Extensions.FileSystemGlobbing.dll": "sha256-r8LuqDQgcB\/c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=",
       "Microsoft.Extensions.FileProviders.Abstractions.dll": "sha256-DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       "Microsoft.Extensions.Logging.dll": "sha256-+kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=",
       "Microsoft.Extensions.Options.dll": "sha256-jy2f00FanofpLVaiV0ZLVMwgeQoAAw0lk598xWLLjCw=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "Blazor.Client.pdb": "sha256-sniGG1bXNCchoOs17wVLCFjuiKJ4V2yPwwwmwMjm\/+U=",
-      "Blazor.Shared.pdb": "sha256-BtJ0JAJiunQNzMvCnqsGWanowSnW+93o5gsCVdD7CvA="
-=======
-=======
->>>>>>> Stashed changes
-      "Microsoft.Extensions.Logging.dll": "sha256-VlsKv5zXgdK0MrYHXr9XlUCXwuwNI7AUI\/C1PEFXcz4=",
-      "System.Diagnostics.DiagnosticSource.dll": "sha256-sbc04n9Z3XKC7LqBYyOyNFlslAcoXtmk\/7Ez6zn0BjA=",
-      "System.Runtime.Extensions.dll": "sha256-1FBfAreOfbXDp0WA294BCrk0EIa5ZqlghOuvDlqFtk8=",
-      "System.AppContext.dll": "sha256-vrQresrQjYlvmLF1TcQFTDnoyCPKWUc39vSvo5EfwmQ=",
-      "System.Runtime.InteropServices.dll": "sha256-XAnEkn2DkDU\/Xn588HKF6xZ5f3g9Eyzmw3DjEGtn2lM=",
-      "System.Diagnostics.Debug.dll": "sha256-tFMMNru1KjM9tY0dph3potA\/qlmOtgZOwHLp+imUF7Y=",
-      "System.Threading.dll": "sha256-mzuLugvmIOgYjOk4f3eQas5TIH2wER7oBvjOd1j22ps=",
-      "System.Reflection.dll": "sha256-8Q+uKcqkDjFjcXfcYU073dQlKb5IRta\/UHFtV3Tjz9s=",
-      "System.Collections.dll": "sha256-zWDzFtXZzC+KLMGVRm7c4nLj3X7VnzT9SMdxCVqb3dE=",
-      "System.Collections.Concurrent.dll": "sha256-Pts2S7BakHY8LACDy5I26bdgF2CrhSoTCirY4R\/+sBE=",
-      "System.Diagnostics.Tracing.dll": "sha256-g3D7CEj2L0Qctx7Es\/Pvvvauld0RQjyo76PPB99L9Qk=",
-      "System.Resources.ResourceManager.dll": "sha256-U4q43ZeuBEBaCygKJwr18fjDYwnFv22MHuvMVqnpNzI=",
-      "System.Runtime.dll": "sha256-6CpyRQAYrVPJfNYBKH0K9lWX+rNPO15lwNhGHPmvxtk=",
-      "Microsoft.Extensions.Options.dll": "sha256-XMbWzSbWz38yBXaSo6e8kAgk2oM6rEjZoZYJBkMR37Q=",
-      "Microsoft.JSInterop.dll": "sha256-YVKMyH3AN+9RSb6NRRz7JNpG\/bR+qYX2hqVAouLpfz4=",
-      "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
-    },
-    "pdb": {
-      "Blazor.Client.pdb": "sha256-Tz1k\/aPLdJvRE3CKFvaYbkX\/uiEaBeyGvhi5ChxisDw=",
-      "Blazor.Shared.pdb": "sha256-yZF+kUGN8YcMOBYjdA6yAWkstz8++wEv6zF8SQSJnt0="
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+      "Blazor.Client.pdb": "sha256-rO7SPI15p44Ly77PSYJ7Q5r8EddyXRG3jGAPBsIL5+s=",
+      "Blazor.Shared.pdb": "sha256-v7WcOMd7wthVatqqT+sL9eb+eBWluZiNoF+3O1ec2LE="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",
